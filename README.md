@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://github.com/HerbyJ3**
 
-- 📄 Know about my experiences on [https://www.linkedin.com/in/herby-jeanty-2058251b/](https://www.linkedin.com/in/herby-jeanty-2058251b/)
+- 📄 Know about my experiences on [https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty-2058251b/)
 
 - ⚡ Fun fact **I'm a hobbyist**
 
