@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently studying for **AWS Developers Associate Certification**
 
-- 🔭 I’m currently playing with **Jenkins, Terraform, Ansible, AWS SDK, AWS CLI, Python, JSON, YAML, and CodePipeline**
+- 🔭 I’m currently playing with **Terraform, AWS CloudFormation, AWS CLI, Python, and AWS CodePipeline**
 
 - 👨🏾‍🎓 I currently possess the following certifications: [AWS Solutions Architect, CCNA, CompTia Network + & A+](https://www.credly.com/users/herby-jeanty/badges)
 
