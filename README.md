@@ -11,8 +11,6 @@
 
 - 🎯 My Goal is **to gain experience in the DevOps field and contribute to as many projects.**
 
-- 📫 How to reach me **https://github.com/HerbyJ3**
-
 - 📄 Know about my experiences on [https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty/)
 
 - ⚡ Fun fact **I'm a hobbyist**
