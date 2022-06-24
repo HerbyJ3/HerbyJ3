@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently playing with **Terraform, AWS CloudFormation, AWS CLI, Python, and AWS CodePipeline**
 
-- 👨🏾‍🎓 I currently possess the following certifications: [AWS Solutions Architect, CCNA, CompTia Network + & A+](https://www.credly.com/users/herby-jeanty/badges)
+- 👨🏾‍🎓 I currently possess the following certifications: [AWS Solutions Architect, CCNA, Linux Essentials, CompTia Network + & A+](https://www.credly.com/users/herby-jeanty/badges)
 
 - 🏫 I'm currently learning **CI/CD, DevOps, and Infrastructure as Code**
 
