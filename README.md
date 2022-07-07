@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences on [https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty/)
 
-- ⚡ Fun fact **I'm a hobbyist**
+- ⚡ Fun fact **I love to learn**
 
 <h3 align="left">Connect with me:</h3>
 
