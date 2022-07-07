@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Herby J.</h1>
+
 <h3 align="center">A passionate DevOps Engineer transitioning from Network Engineering</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="200"/>
+</div>
 
 - 🎓 I’m currently studying for **AWS Developers Associate Certification**
 
