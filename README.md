@@ -6,16 +6,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+- 🏫 I'm currently learning **CI/CD, DevOps, and Infrastructure as Code**
 
 - 🔭 I’m currently playing with **Terraform, AWS CloudFormation, AWS CLI, Python, and AWS CodePipeline**
 
 - 👨🏾‍🎓 I currently possess the following certifications: [AWS Developers Associate, AWS Solutions Architect, CCNA, Linux Essentials, CompTia's Network + &  A+](https://www.credly.com/users/herby-jeanty/badges)
 
-- 🏫 I'm currently learning **CI/CD, DevOps, and Infrastructure as Code**
-
 - 🎯 My Goal is **to gain experience in the DevOps field and contribute to as many projects.**
 
-- 📄 Know about my experiences on [https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty/)
+- 📄 Take a look at my professional experiences here 👉🏾[https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty/)
 
 - ⚡ Fun fact **I love to learn**
 
