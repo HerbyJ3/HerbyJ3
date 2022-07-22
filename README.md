@@ -16,6 +16,8 @@
 
 - 📄 Take a look at my professional experiences here 👉🏾[https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty/)
 
+- 🎓 Check out my articles on Medium here 👉🏾[https://medium.com/@jeanty.herby/](https://medium.com/@jeanty.herby/)
+
 - ⚡ Fun fact **I love to learn**
 
 <h3 align="left">Connect with me:</h3>
