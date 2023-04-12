@@ -12,7 +12,7 @@
 
 - 👨🏾‍🎓 I currently possess the following certifications: [AWS Developers Associate, AWS Solutions Architect, CCNA, Linux Essentials, CompTia's Network + &  A+](https://www.credly.com/users/herby-jeanty/badges)
 
-- 🎯 My Goal is **to gain experience in the DevOps field and contribute to as many projects.**
+- 🎯 My Goal is **to gain experience in the DevOps/Automation field and contribute to as many projects.**
 
 - 📄 Take a look at my professional experiences here 👉🏾[https://www.linkedin.com/in/herby-jeanty/](https://www.linkedin.com/in/herby-jeanty/)
 
