@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Herby J.</h1>
 
-<h3 align="center">I'm an Network Automation Engineer</h3>
+<h3 align="center">I'm a Network Automation Engineer</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
